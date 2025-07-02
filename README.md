@@ -6,7 +6,7 @@ into url = "https://results.indiaresults.com/mz/mbse/hslc-exam-result-2024/resul
 and so on.
 
 Format for the name_roll_reg_list.txt is
-Name,Roll,Rege
+Name,Roll,Reg
 example: Alice,210120125,23191240122
 
 Requirements:
